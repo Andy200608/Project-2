@@ -5,6 +5,7 @@
  *          Vectors, searching, sorting, and player files.
  * Version: 1.0
  */
+// Project 2 splits each feature into functions so main stays easy to follow.
 // System Libraries
 #include <iostream>
 #include <iomanip>
